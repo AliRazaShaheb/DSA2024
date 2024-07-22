@@ -1,3 +1,5 @@
+// ========= BASIC ARRAY==========
+
 // Q1. Create an array of numbers from 1 to 10.
 const arrayOne2Ten = Array.from({ length: 10 }, (_, idx) => idx + 1);
 
