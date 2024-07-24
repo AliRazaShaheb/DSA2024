@@ -1,3 +1,14 @@
+// ========= STACK - OBJECT ==========
+/*
+Last-in first-out (LIFO)
+example:
+1) plate stacking example. last plate will be removed first in order to empty bucket.
+2) editing software Undo machansim
+3) some application store actions in order to to go back to previouse state
+4) browser history navigation with back button 
+5) call stack function call
+
+*/
 class Stack {
   constructor() {
     this.items = {};
