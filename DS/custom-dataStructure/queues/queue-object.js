@@ -1,6 +1,9 @@
 // ========= QUEUE - OBJECT ==========
 /*
 First-in first-out (FIFO)
+............................................
+-> [in]   [element]     [element]     -> [out]
+............................................
 example:
 1) executing customer orders
 2) people lineup for bus, for buying tickets, taking foods etc.
